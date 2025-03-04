@@ -1,24 +1,50 @@
-# React + Vite
+# Counter Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple counter application that allows users to increment and decrement a counter value. This application uses React and Tailwind CSS.
 
-![Screenshot](screenshot.png)  <!-- Screenshot ke liye image add kiya gaya hai -->
+## Features
 
-## Installation
+- Increment and decrement the counter
+- Responsive design
 
-1. Clone this project:
+## Technologies
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+
+## Usage
+
+1. Clone the project:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Ahmedkhan-dev99/Counter.git
    ```
+
 2. Navigate to the directory:
    ```bash
-   cd Counter
+   cd counter
    ```
+
 3. Install dependencies:
    ```bash
    npm install
    ```
 
-## Usage
+4. Run the application:
+   ```bash
+   npm run dev
+   ```
 
-To start the project:
+5. Open your browser and go to `http://localhost:3000`.
+
+## Screenshot
+
+<img src="screenshot.png" alt="Counter Application Screenshot" />
+
+## Contributing
+
+If you would like to contribute to this project, please open an issue or submit a Pull Request.
+
+## License
+
+This project is licensed under the MIT License.
